@@ -1,6 +1,6 @@
 # Klasifikasi Wine dengan Decision Tree
 
-Proyek ini menggunakan **Decision Tree Classifier** untuk mengklasifikasikan sampel wine berdasarkan atribut kimia dari **Wine Dataset**.
+Disini menggunakan **Decision Tree Classifier** untuk mengklasifikasikan sampel wine berdasarkan atribut kimia dari **Wine Dataset**.
 
 ## Dataset
 
